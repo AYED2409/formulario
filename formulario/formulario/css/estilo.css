@@ -1,0 +1,22 @@
+#contenedor{
+    width: 900px;
+    height: 700px;
+    border : 1px solid red;
+}
+
+input[type=checkbox]{
+    display: none;
+}
+
+label div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-position: center center;
+    background-size: cover;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+}
